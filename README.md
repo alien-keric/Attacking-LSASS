@@ -41,6 +41,6 @@ Recall that LSASS stores credentials that have active logon sessions on Windows 
 Now lets run it to our dump and see what we got
 ![lsassdump](https://github.com/alien-keric/Attacking-LSASS/blob/main/dump.png)
 
-From here we can proceed with cracking the hash if possible using johnjohn,hashcat or online tools but also try other attacks with the help of hash and usernamewe got from the dump
+From here we can proceed with cracking the hash if possible using johnjohn,hashcat or online tools but also try other attacks with the help of hash and username we got from the dump
 
 Enjoy life :)
