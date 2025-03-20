@@ -22,4 +22,4 @@ With this method its simple we just have to start the Task Manager and find the 
 
 Now we need to create a dump of it, and good enough of GUI it will show where the dump is being stored as seen below.
 ![lsassdump](https://github.com/alien-keric/Attacking-LSASS/blob/main/lsass1.png)
-create a copy of the contents of LSASS process memory via the generation of a memory dump
+create a copy of the contents of LSASS process memory via the generation of a memory dump, now since we have a copy of our dump transfer it to our local machine it to our local machine, copying it is very simple
