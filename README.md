@@ -18,8 +18,8 @@ If you have ever tried to attack SAM,SYSTEM, and SECURITY hives it will be much 
 
 ## Task Manager method.
 With this method its simple we just have to start the Task Manager and find the Local Security Process Authority and create a dump
-![taskManager](![lsass](https://github.com/user-attachments/assets/98c0f16f-d152-48ed-9631-bc5d1e7b8d0b))
+![taskManager](https://github.com/alien-keric/Attacking-LSASS/blob/main/lsass.png)
 
 Now we need to create a dump of it, and good enough of GUI it will show where the dump is being stored as seen below.
-![lsassdump]()
+![lsassdump](https://github.com/alien-keric/Attacking-LSASS/blob/main/lsass1.png)
 create a copy of the contents of LSASS process memory via the generation of a memory dump
